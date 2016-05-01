@@ -55,6 +55,7 @@ names(FilteredData)<-gsub("tBody", "TimeBody", names(FilteredData))
 names(FilteredData)<-gsub("-mean\\(\\)", "Mean", names(FilteredData), ignore.case = TRUE)
 names(FilteredData)<-gsub("-std\\(\\)", "StdDev", names(FilteredData), ignore.case = TRUE)
 names(FilteredData)<-gsub("-freq\\(\\)", "Frequency", names(FilteredData), ignore.case = TRUE)
+names(FilteredData)<-gsub("-", "", names(FilteredData))
 
 #Merge the datasets into a single tidy dataframe
 TidyDataset <- cbind(Subjects,Activities,FilteredData)
