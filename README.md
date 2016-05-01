@@ -8,3 +8,4 @@ The activity identifiers have been replaced with more readable names, as well as
 
 Finally, a tidy data set ([TidyMeans.txt](/TidyMeans.txt/)) is created, which contains the mean value of each variable, for each pair of subject/activity
 
+The R script assumes you have 'data.table' and 'dplyr' packages installed.
