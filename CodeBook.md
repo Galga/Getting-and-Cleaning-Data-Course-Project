@@ -15,7 +15,7 @@ This code book describes the different fields in `tidy.txt`.
 
 ## Measurements
 
-The values of these variables are the mean of a measurement for each subject/activity pair (float). 
+The values of these variables are the mean of all the measurements for each subject/activity pair (float). 
 
 * TimeBodyAccMeanX
 * TimeBodyAccMeanY
