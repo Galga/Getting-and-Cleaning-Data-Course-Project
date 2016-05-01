@@ -6,5 +6,5 @@ This single data set is then filtered to keep only the mean and standard deviati
 
 The activity identifiers have been replaced with more readable names, as well as the variable names.
 
-Finally, a tidy data set (TidyMeans.txt) is created, which contains the mean value of each variable, for each pair of subject/activity
+Finally, a tidy data set ([TidyMeans.txt](/TidyMeans.txt/)) is created, which contains the mean value of each variable, for each pair of subject/activity
 
