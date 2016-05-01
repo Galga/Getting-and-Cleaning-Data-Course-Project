@@ -1,5 +1,6 @@
 # Code Book
 
+This code book describes the steps executed by the script and the different fields in [TidyMeans.txt](/TidyMeans.txt/).
 
 ## Steps of the script
 
@@ -22,9 +23,6 @@
    8. Set descriptive variable names
    9. Merge all the data sets into a single data frame
    10. Create a text file containing the mean value for each measurement for each pair of subject and activity
-
-
-
 
 
 ## Subject and Activity
