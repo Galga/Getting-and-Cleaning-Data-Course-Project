@@ -1,6 +1,6 @@
 # Code Book
 
-This code book describes the different fields in `tidy.txt`.
+This code book describes the different fields in [TidyMeans.txt](/TidyMeans.txt/).
 
 ## Subject and Activity
 
