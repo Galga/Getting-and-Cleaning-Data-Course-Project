@@ -1,5 +1,6 @@
 # Code Book
 
+
 ## Steps of the script
 
 
@@ -24,7 +25,7 @@
 
 
 
-This code book describes the different fields in [TidyMeans.txt](/TidyMeans.txt/).
+
 
 ## Subject and Activity
 
